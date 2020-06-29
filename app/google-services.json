@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165930720818",
+    "firebase_url": "https://rndm-52b19.firebaseio.com",
+    "project_id": "rndm-52b19",
+    "storage_bucket": "rndm-52b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165930720818:android:9685e016b19f615f14662b",
+        "android_client_info": {
+          "package_name": "com.senaru.rndm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165930720818-t6h66l3iemv1p3tevohupg9l6kketgss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSs1muF079BA9LyRXeh0qbU3LdIqFuFU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165930720818-t6h66l3iemv1p3tevohupg9l6kketgss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
